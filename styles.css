@@ -36,8 +36,9 @@ img {
   margin: 0 auto;
 }
 
-.card-text h2 {
+.card-text h1 {
   font-weight: 700;
+  font-size: 22px;
   margin: 30px auto 20px;
   text-align: center;
   color: hsl(218, 44%, 22%);
